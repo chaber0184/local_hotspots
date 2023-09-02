@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Danbury Fair Mall",
+        "lat": 41.37945,
+        "long": -73.48104,
+        "descript": "shopping center"
+    },
+    {
+    "name":"Danbury Railway Museum",
+    "lat":41.39782,
+    "long":-73.45046,
+    "descript":"Museum & 6-acre railyard with historic trains"
+    
+},
+{
+    "name":"Danbury City Hall",
+    "lat":41.39187,
+    "long":-73.45386,
+    "descript":"City hall for the city of Danbury"
+    
+},
+{
+    "name":"Hearthstone Castle",
+    "lat":41.37798,
+    "long":-73.44852,
+    "descript":"castle"
+    
+},
+{
+    "name":"Danbury Airport",
+    "lat":41.37139,
+    "long":-73.48073,
+    "descript":"local airport"
+    
+}
+    
+    
+]
